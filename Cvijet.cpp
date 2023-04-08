@@ -141,8 +141,6 @@ Cvijet::Cvijet(sf::RenderWindow *window)
 
     //txt
 
-      
-
     font1.loadFromFile("arial.ttf");
     if (!font1.loadFromFile("arial.ttf"))
         cout << "error 404";
